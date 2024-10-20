@@ -1,6 +1,6 @@
 # Leaf-Blade-Warriors
 
-Описание игры. 
+# Описание
 
 Игра имеет два режима: мультиплеер и синглплеер.
 
@@ -29,3 +29,12 @@
 
 Для модера. Не знаю нужно или нет, но на всякий случай пропишу. Игра сетевая, но никакие данные не собираются и не сохраняются. Сохраняются только игровые данные локально (как обычно во всех остальных играх). 
 
+# Скриншоты
+
+![Image Sequence_008_0000](https://github.com/user-attachments/assets/7014d346-418b-40aa-aeeb-8bd4f97f7572)
+![Image Sequence_007_0000](https://github.com/user-attachments/assets/2d501b9d-8f40-41fd-a77f-06d4c85aa7e3)
+![Image Sequence_006_0000](https://github.com/user-attachments/assets/4d4c9086-19c9-4ac9-b94b-46bd7df1587d)
+![Image Sequence_005_0000](https://github.com/user-attachments/assets/51915dd3-a0db-4aea-92ca-3a3484edf32b)
+![Image Sequence_004_0000](https://github.com/user-attachments/assets/b8ddde51-b687-478d-bdcd-220164b55d1b)
+![Image Sequence_003_0000](https://github.com/user-attachments/assets/c0cbdfb9-e499-48da-826f-d4b5d547012b)
+![Image Sequence_001_0000](https://github.com/user-attachments/assets/ddae05fe-8654-48ee-a2ac-b5bd941481a6)
